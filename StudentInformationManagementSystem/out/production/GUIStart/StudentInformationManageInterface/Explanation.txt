@@ -1,0 +1,7 @@
+教师：admin，密码：123456
+学生：2015150059，密码：150059
+首先登陆admin用户->File->Open->attendStudentList.txt添加学生信息
+添加完学生信息后就打开服务器端：Edit->Consult
+然后可以再Help->Exit退回到登录界面登录学生用户->Edit->Inquire，往输入框中输入姓名如：jiafan后点击查询即可
+如果要在不同机器上测试程序，则要将localhost改为自己的ip地址，还有要使用不会被占用的端口。
+
